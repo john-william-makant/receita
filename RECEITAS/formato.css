@@ -1,0 +1,12 @@
+.logo{
+    display:flex; height: 50px; width: 50px; padding: 0px;
+}
+main{
+    height: calc(100vh - 100px);
+}
+footer{
+    height: 25px;
+}
+header{
+    height: 60px;
+}

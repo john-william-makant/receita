@@ -1,0 +1,22 @@
+.painel{
+    width: 98vw;
+    height: 90vh;
+    display: flex;
+    overflow-x: hidden;
+    overflow-y: auto;
+    text-align:justify;
+    
+}
+main{
+    height: calc(100vh - 100px);
+}
+footer{
+    height: 25px;
+}
+header{
+    height: 60px;
+}
+.card-body{
+   overflow-x: hidden;overflow-y: auto;text-align:justify;
+}
+
